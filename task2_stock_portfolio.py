@@ -1,6 +1,5 @@
-# ✅ TASK 2: Stock Portfolio Tracker
+#TASK 2: Stock Portfolio Tracker
 
-# Hardcoded stock prices
 stock_prices = {
     "AAPL": 180,
     "TSLA": 250,
@@ -42,7 +41,7 @@ def stock_portfolio_tracker():
 
     print(f"\nTotal Investment Value: ${total_value}")
 
-    # Optional: Save to file
+     Save to file
     save = input("Do you want to save the result to 'portfolio.txt'? (yes/no): ").lower()
     if save == 'yes':
         with open("portfolio.txt", "w") as file:
