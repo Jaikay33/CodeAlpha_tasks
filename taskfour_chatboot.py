@@ -1,9 +1,5 @@
-# ✅
- #TASK 4: Basic Chatbot 
-#Goal: Build a simple rule-based chatbot. 
-#Scope: 
-#● Predefined replies like: "Hi!", "I'm fine, thanks!", "Goodbye!". 
-#Key Concepts Used: if-elif, functions, loops, input/output
+
+ #TASK 4: Basic Chatbot
 
 def chatbot():
     print("Chatbot: Hello! I'm your simple chatbot. Type 'bye' to exit.")
@@ -21,6 +17,6 @@ def chatbot():
         else:
             print("Chatbot: Sorry, I don't understand that.")
 
-# Run the chatbot
+
 chatbot()
 
