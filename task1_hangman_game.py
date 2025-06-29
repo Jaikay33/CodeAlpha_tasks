@@ -1,4 +1,4 @@
-# ✅ TASK 1: Hangman Game
+#TASK 1: Hangman Game
 
 import random
 
