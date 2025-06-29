@@ -1,2 +1,2 @@
-# CodeAlpha_tasks
-Here is my all internship task from Code Alpha 
+# codealpha_tasks
+Iam Jaikay Kumar & here is my all internship task from Code Alpha 
